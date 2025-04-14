@@ -4,6 +4,10 @@
 
 ---
 
-![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=efdesu&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efdesu&layout=compact&theme=dracula)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=efdesu&show_icons=true&theme=dracula" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efdesu&layout=compact&theme=dracula" height="150" style="margin-left: 25px"/>
+  
+</div>
