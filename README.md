@@ -1,7 +1,7 @@
 <div style="padding: 20px; border-radius: 10px;">
 
 <h2 align="center" style="color: #f8f8f2 ";> Hi, there! I'm Elif Sude 👋</h2> 
-<h3 align="center">✨ Welcome to my journey of becoming a <b><i>Frontend Developer</em>.</i></h3>
+<h3 align="center">✨ Welcome to my journey of becoming a <b><i>Frontend Developer</i>.</b></h3>
 
 <div align="center">
   <p>
